@@ -1,0 +1,39 @@
+{
+    "name": "avastechnology/laravel-environment",
+    "version": "9.0.0",
+    "description": "Provides an Environment enumeration class to help specify the current and available environments.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Author Name",
+            "email": "author@email.com",
+            "homepage": "http://author.com"
+        }
+    ],
+    "homepage": "https://github.com/avastechnology/laravel-environment",
+    "keywords": ["Laravel", "LaravelEnvironment"],
+    "require": {
+        "illuminate/support": "~9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~9.0",
+        "orchestra/testbench": "~9"
+    },
+    "autoload": {
+        "psr-4": {
+            "AVASTechnology\\LaravelEnvironment\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AVASTechnology\\LaravelEnvironment\\Tests\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AVASTechnology\\LaravelEnvironment\\LaravelEnvironmentServiceProvider"
+            ]
+        }
+    }
+}
