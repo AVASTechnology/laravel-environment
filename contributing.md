@@ -1,14 +1,11 @@
 # Contributing
 
-Contributions are welcome and will be fully credited.
+Contributions are welcome and will be fully credited. There is likely not much worth contributing though. As Laravel moves to 8.1, the 
 
 Contributions are accepted via Pull Requests on [Github](https://github.com/avastechnology/laravel-environment).
 
 # Things you could do
 If you want to contribute but do not know where to start, this list provides some starting points.
-- Add license text
-- Remove rewriteRules.php
-- Set up TravisCI, StyleCI, ScrutinizerCI
 - Write a comprehensive ReadMe
 
 ## Pull Requests

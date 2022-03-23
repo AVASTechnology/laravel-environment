@@ -2,10 +2,9 @@
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
-[![Build Status][ico-travis]][link-travis]
-[![StyleCI][ico-styleci]][link-styleci]
 
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
+
+This is where your description should go. Take a look at [contributing.md](contributing.md) to see a todo list.
 
 ## Installation
 
@@ -51,7 +50,5 @@ MIT. Please see the [license file](license.md) for more information.
 
 [link-packagist]: https://packagist.org/packages/avastechnology/laravel-environment
 [link-downloads]: https://packagist.org/packages/avastechnology/laravel-environment
-[link-travis]: https://travis-ci.org/avastechnology/laravel-environment
-[link-styleci]: https://styleci.io/repos/12345678
 [link-author]: https://github.com/avastechnology
 [link-contributors]: ../../contributors
