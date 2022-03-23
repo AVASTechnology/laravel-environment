@@ -5,14 +5,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Author Name",
-            "email": "author@email.com",
-            "homepage": "http://author.com"
+            "name": "Anthony Green",
+            "homepage": "https://avastechnology.com"
         }
     ],
     "homepage": "https://github.com/avastechnology/laravel-environment",
-    "keywords": ["Laravel", "LaravelEnvironment"],
+    "keywords": ["Laravel", "Environment"],
     "require": {
+        "avastechnology/laravel-console": "~9",
         "illuminate/support": "~9"
     },
     "require-dev": {
