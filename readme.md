@@ -3,6 +3,10 @@
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+This package provides an Environment enumeration to better track environment names and references.
+
+There is also a modified "env" console command that provides more details on the current environment and settings.
+
 
 This is where your description should go. Take a look at [contributing.md](contributing.md) to see a todo list.
 
